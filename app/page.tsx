@@ -54,11 +54,17 @@ export default function Portfolio() {
       </nav>
 
       {/* HERO */}
+
+      {/* Ancien en-tête
       <section id="accueil" className="min-h-screen flex items-center pt-24 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/10 via-transparent to-cyan-500/10 blur-3xl"></div>
+        */}
+
+      <section className="min-h-screen flex items-center pt-20">
+        <div className="max-w-4xl mx-auto px-6 text-center">
         
         <div className="max-w-5xl mx-auto px-6 relative">
-          <h1 className="text-6xl font-bold mb-6">Développeur Web & Mobile</h1>
+          <h1 className="text-6xl font-bold mb-6">Développeur Web & Mobile </h1>
           <p className="text-xl text-zinc-400 max-w-2xl">
             Je conçois des applications modernes, performantes et orientées produit.
           </p>
@@ -66,7 +72,7 @@ export default function Portfolio() {
         
           <div className="mb-8 inline-flex items-center gap-3 px-4 py-2 bg-zinc-900 rounded-full border border-zinc-700">
             <span className="text-emerald-400">●</span>
-            <span className="text-sm tracking-widest">Disponible immédiatement - 78/92</span>
+            <span className="text-sm tracking-widest"> Disponible immédiatement - 78/92 </span>
           </div>
           <h1 className="text-7xl md:text-8xl font-bold tracking-tighter mb-6"> Entreprod </h1>
           <p className="text-3xl md:text-4xl text-zinc-400 mb-4"> Développeur Web &amp; Mobile Junior </p>
