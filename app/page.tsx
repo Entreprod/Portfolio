@@ -60,7 +60,7 @@ export default function Portfolio() {
       */}
       
       <section id="accueil" className="min-h-screen flex items-center pt-20">
-        <div className="max-w-5xl mx-auto px-6 text-center">
+        <div className="max-w-5xl mx-auto px-6 text-center bg-gradient-to-br from-emerald-500/10 via-transparent to-cyan-500/10 blur-3xl">
           
           {/* Badge disponibilité */}
           <div className="mb-8 inline-flex items-center gap-3 px-4 py-2 bg-zinc-900 rounded-full border border-zinc-700">
