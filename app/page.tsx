@@ -46,12 +46,6 @@ export default function Portfolio() {
             <a href="#projets">Projets</a>
             <a href="#contact">Contact</a>
 
-            <button
-              onClick={toggleTheme}
-              className="w-9 h-9 flex items-center justify-center rounded-full border border-zinc-700"
-            >
-              {theme === 'dark' ? '☀️' : '🌙'}
-            </button>
           </div>
         </div>
       </nav>
@@ -127,26 +121,9 @@ export default function Portfolio() {
 
 
       
-      {/* HERO 3 */}
-      <section id="accueil" className="min-h-screen flex items-center pt-24 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/10 via-transparent to-cyan-500/10 blur-3xl" />
-
-        <div className="relative text-center px-6">
-          <h1 className="text-6xl font-bold mb-6">Développeur Web & Mobile</h1>
-          <p className="text-xl text-zinc-300 max-w-2xl mx-auto">
-            Je conçois des applications modernes, performantes et orientées produit.
-          </p>
-          <p className="text-xl text-zinc-400 leading-relaxed">
-            Passionné par le développement, je crée des applications web et mobiles en combinant design, performance et expérience utilisateur.
-          </p>
-        </div>
-      </section>
-
-
-      
       {/* COMPÉTENCES */}
       <section id="competences2" className="hero-bg min-h-screen flex items-center relative py-24"
-               style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97')" }}>
+               style={{ backgroundImage: "url('https://images.unsplash.com/photo-1558494949-ef010cbdcc31')" }}>
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/70"></div>
         <div className="relative max-w-5xl mx-auto px-6 text-white">
           <h2 className="text-5xl font-bold text-center mb-16">Compétences</h2>
