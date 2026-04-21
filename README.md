@@ -1,12 +1,9 @@
 # Portfolio - Entreprod
 
-Portfolio officiel d'**Entreprod** - Développeur web & mobile
+Lien pour consulter le site : [https://entreprod.vercel.app/](https://entreprod.vercel.app/)
 
-Ce site met en avant mes compétences en React, Next.js, Flutter, React Native, WordPress, Shopify et l’utilisation avancée des outils IA. D'autres technologies seront prochainement listées.
+Bienvenue sur le portfolio d’Entreprod. Ce site présente nos services de développement web et mobile et met en avant notre expertise sur des technologies modernes telles que React, Next.js, Flutter, React Native, WordPress et Shopify, ainsi que notre utilisation avancée des outils d’intelligence artificielle. D’autres technologies viendront prochainement compléter cet éventail, et le site est actuellement en cours d’amélioration afin de proposer une présentation toujours plus claire, structurée et alignée avec les standards du développement moderne. 
 
-**Projets Entreprod**  
-Ce portfolio présente les projets réalisés avec **Entreprod**.
-Le site est toujours en construction.
 L’ensemble des réalisations et des projets en cours est consultable sur [Instagram @Entreprod](https://www.instagram.com/Entreprod).
 
 ---
